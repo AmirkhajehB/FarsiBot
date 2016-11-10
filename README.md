@@ -8,16 +8,9 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/TeleCleverGuy/FarsiBot.git
+git clone https://github.com/AmirkhajehB/FarsiBot.git
 cd FarsiBot
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
 ```
-<h1>چنل ما</h1>
-<a href="telegram.me/beyondteam"><h3>beyond</h3></a>
-<h1>فارسی و اوپن شده توسط</h1>
-<a href="telegram.me/CleverGuy"><h3>CleverGuy</h3></a>
-
-سوالی بود در خدمتم
-موفق باشید
